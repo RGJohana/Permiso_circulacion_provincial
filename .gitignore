@@ -1,0 +1,15 @@
+
+__pycache__
+.pytest_cache/
+.coverage
+*.log
+*.pyc
+*.pyo
+*.pyd
+*ingreso.db
+*usuarios.db
+*validacion.db
+.vscode/
+instance/
+*.pyc
+*.schema.sql
