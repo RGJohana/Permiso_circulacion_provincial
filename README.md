@@ -1,5 +1,5 @@
 Autor: Johana Rangel
-johanarang@hotmail.com\
+johanarangeldo@gmail.com
 
 ![logo_permiso](static/media/logo_permiso.png)
 
@@ -76,7 +76,7 @@ def procesar():
             return jsonify({'trace': traceback.format_exc()})
     
 # Muchas gracias!
-Cualquier duda o sugerencia pueden contartarse con Johana Rangel al mail johanarang@hotmail.com 
+Cualquier duda o sugerencia pueden contartarse con Johana Rangel al mail johanarangeldo@gmail.com
 
 # Fecha de última actualización.
 17 de noviembre 2020
