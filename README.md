@@ -1,7 +1,7 @@
 Autor: Johana Rangel
 johanarang@hotmail.com\
 
-![logo_permiso](logo_permiso.png)
+![logo_permiso](static/media/logo_permiso.png)
 
 # proyecto_programador_python
 Primer proyecto integrador.
