@@ -8,6 +8,7 @@ Primer proyecto integrador.
 
 # Título del proyecto.
 Verificación de permisos de circulación provincial.
+![home](static/media/home.JPG)
 
 # Descripción. 
 Es un programa que permite la verificación de perimisos de circulación para el ingreso a provincia. 
