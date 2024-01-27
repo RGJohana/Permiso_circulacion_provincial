@@ -24,7 +24,7 @@ Donde se debe crear un usuario para poder completar el formulario  de datos del 
 salir del programa
 
 # Diagrama de flujo.
-![Johana Rangel banner](/flujo_proyecto_inicial.jpg)
+![Johana Rangel banner](static/media/flujo_proyecto_inicial.jpg)
 
 # Ejemplo de una función aplicada en el programa.
 
